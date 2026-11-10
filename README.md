@@ -1,0 +1,3 @@
+# Sugerencias técnicas
+
+Texto pendiente.
